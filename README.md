@@ -19,11 +19,15 @@ I write code when the tool I need doesn't exist yet. Usually that means motion t
 
 ### Where the code started
 
-Back in 2020, as a feature-film compositor, I started rebuilding what Nuke and Photoshop do with OpenCV and Python: [compositing](https://www.linkedin.com/pulse/i-did-digital-compositing-opencv-python-keshaw-thakur-/), [masking](https://www.linkedin.com/pulse/i-can-hide-face-code-d-keshaw-thakur-/), [cropping](https://www.linkedin.com/pulse/i-cropped-image-code-yeah-keshaw-thakur-/) and [computer vision](https://www.linkedin.com/pulse/moving-towards-computer-vision-ai-keshaw-thakur-/). I've been mixing pixels and code ever since.
+From artist to technologist, one script at a time:
+
+**After Effects and Flash scripting** → **Maya rigging** → **Houdini** → **Python** rigging scripts and custom tools → **compositing** for feature films → **OpenCV and computer vision** → **AI**
+
+Some animation can't be keyed by hand, so I learned to script it. Compositing taught me what happens to every pixel behind the scenes, and in 2020 I started rebuilding it in code with OpenCV and Python: [compositing](https://www.linkedin.com/pulse/i-did-digital-compositing-opencv-python-keshaw-thakur-/), [masking](https://www.linkedin.com/pulse/i-can-hide-face-code-d-keshaw-thakur-/), [cropping](https://www.linkedin.com/pulse/i-cropped-image-code-yeah-keshaw-thakur-/) and [computer vision](https://www.linkedin.com/pulse/moving-towards-computer-vision-ai-keshaw-thakur-/). That move from artist to tech gave me a solid foundation for both.
 
 ### Tools
 
-**Creative:** Nuke · Houdini · Cinema 4D · Redshift · Maya · RealFlow · Blender · Photoshop
+**Creative:** Nuke · After Effects · Houdini · Cinema 4D · Redshift · Maya · RealFlow · Blender · Photoshop
 **Code:** JavaScript · TypeScript · Python · OpenCV · HTML/CSS · Vercel
 **AI:** Claude · agent workflows · AI video and compositing tools
 
