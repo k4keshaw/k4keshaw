@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Keshaw Singh: motion, VFX and code">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" overflow="hidden" viewBox="0 0 1200 300" role="img" aria-label="Keshaw Singh: motion, VFX and code">
   <defs>
     <pattern id="grid" width="16" height="16" patternUnits="userSpaceOnUse">
       <circle cx="8" cy="8" r="1.2" fill="#e3e6ee"/>
@@ -10,9 +10,8 @@
   <g transform="translate(60 60) scale(1.8)">
     <text x="14" y="66" font-family="Helvetica, Arial, sans-serif" font-weight="700" font-size="44" fill="#15171a">k</text>
     <text x="54" y="66" font-family="Helvetica, Arial, sans-serif" font-weight="700" font-size="44" fill="#15171a">s</text>
-    <rect x="46" y="22" width="4" height="58" fill="#2b3bf0"/>
-    <path d="M38 16h20l-10 11z" fill="#2b3bf0"/>
-    <rect x="80" y="58" width="8" height="8" fill="#2b3bf0"/>
+    <g class="ph"><rect x="46" y="22" width="4" height="58" fill="#2b3bf0"/><path d="M38 16h20l-10 11z" fill="#2b3bf0"/></g>
+    <rect class="px" x="80" y="58" width="8" height="8" fill="#2b3bf0"/>
   </g>
   <text x="290" y="140" font-family="Helvetica, Arial, sans-serif" font-size="64" font-weight="700" fill="#15171a" letter-spacing="-2">Keshaw Singh</text>
   <text x="292" y="188" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#3a3e44">Motion, VFX and code. I make video end to end,</text>
@@ -23,6 +22,15 @@
     <rect x="126" y="0" width="150" height="10" rx="3" fill="#5fb3d9"/>
     <rect x="282" y="0" width="110" height="10" rx="3" fill="#a787e6"/>
     <rect x="398" y="0" width="160" height="10" rx="3" fill="#6cc08f"/>
-    <rect x="210" y="-8" width="3" height="26" fill="#2b3bf0"/>
+    <rect class="tl-head" x="0" y="-8" width="3" height="26" fill="#2b3bf0"/>
   </g>
+  <style>
+    .ph{transform-box:view-box;animation:ph 3s cubic-bezier(.45,0,.2,1) infinite}
+    .px{animation:px 1.2s steps(1) infinite}
+    .tl-head{transform-box:view-box;animation:tl 6s linear infinite}
+    @keyframes ph{0%,100%{transform:translateX(0)}20%{transform:translateX(-24px)}45%{transform:translateX(30px)}65%{transform:translateX(0)}}
+    @keyframes px{0%{opacity:1}50%{opacity:.25}}
+    @keyframes tl{from{transform:translateX(0)}to{transform:translateX(555px)}}
+    @media (prefers-reduced-motion:reduce){.ph,.px,.tl-head{animation:none}}
+  </style>
 </svg>
