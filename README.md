@@ -2,7 +2,7 @@
 
 ### Hi, I'm Keshaw 👋
 
-I've spent 10,000+ hours moving pixels: 21 feature film credits in VFX and compositing, four and a half years of motion design at [Supra](https://supra.com/), and now I lead video at [Neo](https://neo.work/).
+I've spent 10,000+ hours moving pixels: 21 feature film credits in VFX and compositing, four and a half years of motion design at [Supra](https://supra.com/), and now I lead video at [neo.work](https://neo.work/).
 
 I write code when the tool I need doesn't exist yet. Usually that means motion tools, AI-assisted creative pipelines, and product prototypes I design and build myself.
 

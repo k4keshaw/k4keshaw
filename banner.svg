@@ -22,15 +22,6 @@
     <rect x="126" y="0" width="150" height="10" rx="3" fill="#5fb3d9"/>
     <rect x="282" y="0" width="110" height="10" rx="3" fill="#a787e6"/>
     <rect x="398" y="0" width="160" height="10" rx="3" fill="#6cc08f"/>
-    <rect class="tl-head" x="0" y="-8" width="3" height="26" fill="#2b3bf0"/>
+    <rect class="tl-head" x="210" y="-8" width="3" height="26" fill="#2b3bf0"/>
   </g>
-  <style>
-    .ph{transform-box:view-box;animation:ph 3s cubic-bezier(.45,0,.2,1) infinite}
-    .px{animation:px 1.2s steps(1) infinite}
-    .tl-head{transform-box:view-box;animation:tl 6s linear infinite}
-    @keyframes ph{0%,100%{transform:translateX(0)}20%{transform:translateX(-24px)}45%{transform:translateX(30px)}65%{transform:translateX(0)}}
-    @keyframes px{0%{opacity:1}50%{opacity:.25}}
-    @keyframes tl{from{transform:translateX(0)}to{transform:translateX(555px)}}
-    @media (prefers-reduced-motion:reduce){.ph,.px,.tl-head{animation:none}}
-  </style>
 </svg>
