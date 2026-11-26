@@ -17,6 +17,19 @@ I write code when the tool I need doesn't exist yet. Usually that means motion t
 | [Finflow dashboard](https://github.com/k4keshaw/Fintech_Stablecoin_product_dashboard_design) | Stablecoin treasury dashboard: balances, payments, convert | TypeScript | [Open ↗](https://stablecoinproductdashboarddesign.vercel.app) |
 | [Fireflies agenda](https://github.com/k4keshaw/Fireflies_meeting_agenda) | Live progression line concept for an AI meeting assistant | TypeScript | [Open ↗](https://firefliesmeetingagenda.vercel.app) |
 
+### At Neo
+
+At [neo.work](https://neo.work/) I build the Neo Creative team's in-house creative tools under [@neo-creative-lab](https://github.com/neo-creative-lab):
+
+- **Zero Take**: product demo videos
+- **Zero Editor**: short-form video editing
+- **Rough Cut**: voiceover scripting
+- **Zero Brain**: AI writing
+- **Zero Radar**: creative research
+- **Replica**: social video
+- **Digital Mascots**: animated characters
+- **Creative Bots**: AI-assisted building
+
 ### Where the code started
 
 From artist to technologist, one script at a time:
